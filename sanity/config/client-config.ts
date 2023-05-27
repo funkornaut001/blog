@@ -1,7 +1,8 @@
 const config = {
-  projectId: "txd29ab2",
+  projectId: "xnyow1kz",
   dataset: "production",
-  apiVersion: "2023-03-09",
+  apiVersion: "2021-03-25",
+
 }
 
-export default config;
+export default config
